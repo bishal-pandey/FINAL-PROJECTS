@@ -8,3 +8,4 @@ emoji
 pydantic
 jinja2
 uvicorn
+python-multipart
